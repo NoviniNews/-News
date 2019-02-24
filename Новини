@@ -1,0 +1,32 @@
+<!DOCTYPEhtml PUBLIC "-//W3C//DTD html 4.1Final//EN">
+<html>
+<head>
+<title>Новини/News</title>
+<metahttp-equiv="Content-Type"content="text/html";charset=windows-1251">
+</head>
+<body>
+ <table <table align="center" width="65%" cellspacing="0" cellpadding="5" border="1">
+<tr>
+<td align="center" colspan="2" bgcolor="#add2ea" height="79px" background="img/header.jpg"><h1><font color="yellow" size="6">Новини/News</font></h1></td>
+</tr>
+ <tr>
+<td width="130"valign="top">
+ <br>
+  <img src="img/arrow.jpg" hspace="6"><a href="index.html">Головна</a><br>
+ <img src="img/arrow.jpg" hspace="6"><a href="about.html">Новини</a><br>
+ <img src="img/arrow.jpg" hspace="6"><a href="about.html">Допомога для розвитку.Реквізити: Z420645727490 </a><br>
+<img src="img/arrow.jpg" hspace="6"><a href="about.html">Про сайт</a><br>
+ </br>
+</td>
+   <td>
+<p><center><p><h2>В цьому розділі будуть най актуальніші новини</h2></p></center>
+</td>
+ </tr>
+  <tr>
+ <td align="center" colspan="1">
+ <td align="center" colspan="1">Copyright © 2014-2019 Новини/News.Копіювання будь-яких матеріалів заборонено.<a href="#">Новини/News</a></td>
+ </td>
+  </tr>
+</table>
+</body>
+</html>
